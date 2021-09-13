@@ -1,7 +1,8 @@
 body{
     background-color: lightblue;
 }
-h1{
+.display-1{
+    background: linear-gradient(90deg, rgba(76,194,21,1) 3%, rgb(57, 168, 79) 31%, rgba(0,212,255,1) 100%);
     border:1px solid rgb(7, 7, 7);
     margin:80px;
     text-align: center;
@@ -13,11 +14,10 @@ ul{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: lightslategray
+    background-color: rgb(78, 78, 78)
 }
 li{
     display: inline-block;
-    
     padding: 14px 16px;
     color: lightsalmon;
 }
