@@ -1,0 +1,21 @@
+body{
+    background-color: lightblue;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightslategray
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    padding: 14px 16px;
+    color: lightsalmon;
+}
+li a:hover{
+    background: lightskyblue;
+}
