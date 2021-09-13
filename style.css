@@ -1,6 +1,13 @@
 body{
     background-color: lightblue;
 }
+h1{
+    border:1px solid rgb(7, 7, 7);
+    margin:80px;
+    text-align: center;
+    border-radius: 18px 0px 18px 0px;
+    box-shadow: 5px 25px 25px 5px #000000;
+}
 ul{
     list-style-type: none;
     margin: 0;
@@ -9,13 +16,13 @@ ul{
     background-color: lightslategray
 }
 li{
-    float: left;
-}
-li a{
-    display: block;
+    display: inline-block;
+    
     padding: 14px 16px;
     color: lightsalmon;
 }
-li a:hover{
-    background: lightskyblue;
+li a{
+    
+    padding: 14px 16px;
+    color: lightsalmon;
 }
