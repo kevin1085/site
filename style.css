@@ -61,13 +61,13 @@ li a{
         margin:6px;
     }
     .display-1{
+        background: paleturquoise;
         text-align: center;
         font-size: 15px;
-        background:-webkit-linear-gradient(top, rgb(101, 190, 241) 30%, rgb(73, 113, 187) 70%);
-        background-clip:text;
-        -webkit-background-clip:text;
+        color: black;
         border: black 1px solid;
         padding: 15px;
+        
     }
     h2{
         text-decoration: underline;
